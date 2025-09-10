@@ -17,4 +17,4 @@ The LowResBirdGAN file contains the entire program while the other 3 .ipynb file
 </p>
 
 
-This project was pretty succesful although we were limited to low resolution images. It gave us a good understanding of how to use Tensor Flow and a understanding of how GANs work.
+This project was pretty succesful although we were limited to low resolution images. It gave us a good understanding of how to use Tensor Flow and a understanding of how GANs work. Future work would involve implementing a progressive GAN to allow for higher resolution images.
